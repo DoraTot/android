@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonOboji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oboji"
+         />
+
+    <Button
+        android:id="@+id/buttonReprodukuj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reprodukuj" />
+
+    <Button
+        android:id="@+id/buttonDodaj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dodaj" />
+
+    <Button
+        android:id="@+id/buttonMusic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Music2" />
+
+    <Button
+        android:id="@+id/buttonTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Test" />
+
+</LinearLayout>
