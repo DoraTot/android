@@ -36,20 +36,6 @@ public class TestActivity extends AppCompatActivity {
         textView.setText("Oboji me!");
     }
 
-//    @Override
-//    protected void onNewIntent(Intent intent) {
-//        super.onNewIntent(intent);
-//        setIntent(intent);
-//
-//        if (getIntent().getBooleanExtra("changeColor", false)) {
-//            changeTextColor();
-//        }
-//    }
-//
-//    private void changeTextColor() {
-//        textView.setTextColor(Color.RED);
-//    }
-
 
 
 }
